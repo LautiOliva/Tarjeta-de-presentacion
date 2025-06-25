@@ -23,15 +23,17 @@ Este es un proyecto simple de una **tarjeta de presentación web** realizada con
 
 ## 📂 Estructura del proyecto
 
+```txt
 Tarjeta-de-presentacion/
-│
-├── index.html # Estructura principal de la tarjeta
+├── index.html            # Estructura principal de la tarjeta
 ├── css/
-│ └── style.css # Estilos de la tarjeta
+│   └── style.css         # Estilos de la tarjeta
 ├── img/
-│ └── proyecto.png
-│ └── mifoto.png
-└── README.md # Este archivo
+│   ├── proyecto.png      # Captura de pantalla del proyecto
+│   └── mifoto.png        # Imagen personal
+└── README.md             # Este archivo
+```
+
 
 ## 🚀 Cómo verlo localmente
 
