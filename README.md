@@ -8,7 +8,7 @@ Este es un proyecto simple de una **tarjeta de presentación web** realizada con
 
 ## 📸 Captura
 
-![Tarjeta de Presentación](./imagenes/screenshot.png) 
+![Tarjeta de Presentación](./img/screenshot.png) 
 
 ## 🧰 Tecnologías utilizadas
 
